@@ -7,5 +7,4 @@ Through these assignments, I have gained hands-on experience working with SQL an
 
 Overall, this course has provided me with a solid foundation in SQL for data science, and I am excited to continue building upon my knowledge in this area.
 
-Certificate: 
 ![image](https://user-images.githubusercontent.com/74424705/233874009-4638a7c8-c68a-4789-88b9-770328091d85.png)
